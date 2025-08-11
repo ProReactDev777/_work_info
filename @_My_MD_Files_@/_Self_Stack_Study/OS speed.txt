@@ -1,0 +1,2 @@
+all uncheck  ->    System > Performance Options > Visual Effects)
+file explorer/view/options/view/ uncheck : Always show icons, never thumbnails
